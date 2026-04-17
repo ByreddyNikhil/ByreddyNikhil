@@ -1,111 +1,116 @@
-# 👋 Hi, I'm Nikhil Byreddy
-
-🔐 Cybersecurity Graduate Student | 🛡️ Aspiring Security Analyst | 💻 Hands-on with Network Security & OSINT
-
-📍 Auburn University at Montgomery | Actively seeking **Cybersecurity Internship (2026)**
+<h1 align="center">Hi 👋, I'm Nikhil Byreddy</h1>
+<h3 align="center">🔐 Cybersecurity Graduate Student | Aspiring Security Analyst</h3>
 
 ---
 
-## 🎯 Career Objective
+## 🧑‍💻 About Me:
 
-Motivated cybersecurity graduate student with hands-on experience in **network security, OSINT, and system hardening**. Seeking an internship where I can contribute to **threat detection, vulnerability assessment, and security automation**.
-
----
-
-## 🧠 Core Skills
-
-**Security Domains**
-
-* Network Security
-* Threat Analysis
-* OSINT & Identity Resolution
-* Vulnerability Assessment
-* Digital Forensics (Basics)
-
-**Technical Skills**
-
-* Python (Automation, scripting)
-* SQL (data analysis, queries)
-* Linux (Kali Linux, system operations)
-* Networking (TCP/IP, DNS, firewalls)
-
-**Tools & Platforms**
-
-* Wireshark
-* Nmap
-* Metasploit (basic usage)
-* Burp Suite (learning)
-* Git & GitHub
+* 🎓 Pursuing Master's in Cybersecurity @ Auburn University at Montgomery
+* 🔭 Currently working on **OSINT & Identity Resolution Projects**
+* 🌱 Learning **SIEM, Penetration Testing, and Cloud Security**
+* 👯 Looking to collaborate on **Cybersecurity & Open Source Projects**
+* 💬 Ask me about **Network Security, Python, OSINT**
+* ⚡ Fun fact: I enjoy exploring real-world cyber threats and attack simulations
 
 ---
 
-## 💼 Experience
+## 🌐 Connect with Me:
 
-**Associate Software Developer** – Micro CloudOps
-
-* Assisted in backend development and debugging
-* Worked with databases and system-level logic
-* Strengthened problem-solving and secure coding practices
-
----
-
-## 🚀 Projects
-
-### 🔎 Identity Resolution System (GodEye)
-
-* Developed a system to correlate user identities across platforms
-* Applied OSINT techniques for data aggregation
-* Focused on automation and accuracy in matching profiles
-
-### 🌐 Private DNS Server for Secure Browsing
-
-* Configured DNS filtering to block malicious domains
-* Improved privacy and reduced exposure to phishing attacks
-
-### 💾 Network Attached Storage (NAS) – Raspberry Pi
-
-* Built a secure NAS using Raspberry Pi + Linux
-* Enabled encrypted remote file access
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-kumar-reddy-079b3121b" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="mailto:byreddynikhilkumarreddy@gmail.com">
+<img align="center" src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email" />
+</a>
+<a href="https://aum.joinhandshake.com/profiles/wvr7c7" target="blank">
+<img align="center" src="https://img.shields.io/badge/Handshake-green?logo=handshake" alt="Handshake" />
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ByreddyNikhil&show_icons=true&theme=tokyonight)
+### 🔐 Cybersecurity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByreddyNikhil&layout=compact&theme=tokyonight)
+![Network Security](https://img.shields.io/badge/Network-Security-green)
+![OSINT](https://img.shields.io/badge/OSINT-blue)
+![Penetration Testing](https://img.shields.io/badge/PenTesting-red)
+![Digital Forensics](https://img.shields.io/badge/Forensics-grey)
+
+### 💻 Programming & Tools
+
+![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-black)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-purple)
+![Git](https://img.shields.io/badge/Git-orange)
+![Wireshark](https://img.shields.io/badge/Wireshark-blueviolet)
+![Nmap](https://img.shields.io/badge/Nmap-teal)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack-ng-orange)
+![TestDisk](https://img.shields.io/badge/TestDisk-yellow)
+![PhotoRec](https://img.shields.io/badge/PhotoRec-yellowgreen)
+![Autopsy](https://img.shields.io/badge/Autopsy-darkred)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-red)
 
 ---
 
-## 🧪 Currently Learning
+## 🚀 Projects:
 
+🔹 **GodEye – Identity Resolution System**
+
+* OSINT-based system to identify users across platforms
+* Uses automation and data correlation techniques
+
+🔹 **Private DNS Server**
+
+* Blocks malicious domains
+* Improves browsing security & privacy
+
+🔹 **Raspberry Pi NAS**
+
+* Secure file storage system
+* Remote access with encryption
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ByreddyNikhil&show_icons=true&theme=tokyonight" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ByreddyNikhil&theme=tokyonight" alt="Streak" />
+</p>
+
+---
+
+## 📈 Activity Graph:
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ByreddyNikhil&theme=tokyo-night" />
+
+---
+
+## 🧪 Currently Learning:
+
+* SIEM Tools (Splunk basics)
 * Advanced Penetration Testing
-* Security Information & Event Management (SIEM)
-* Cloud Security (AWS basics)
+* Cloud Security (AWS)
 
 ---
 
-## 📜 Certifications (Planned / In Progress)
+## 📜 Certifications Goal:
 
 * CompTIA Security+
 * CEH (Certified Ethical Hacker)
 
 ---
 
-## 🌐 Connect With Me
+## 💡 Quote:
 
-* 💼 LinkedIn: https://www.linkedin.com/in/nikhil-kumar-reddy-079b3121b
-* 📧 Email: [byreddynikhilkumarreddy@gmail.com](mailto:byreddynikhilkumarreddy@gmail.com)
-
----
-
-## ⚡ What I Bring
-
-✔ Strong foundation in cybersecurity concepts  
-✔ Hands-on lab and project experience  
-✔ Quick learner with problem-solving mindset  
-✔ Passion for security research and real-world threats
+> “In cybersecurity industry, you can pray for peace, but never stop entertaining chaos.”
 
 ---
 
-⭐ *Open to internship opportunities – let’s connect!*
+⭐ *Actively seeking Cybersecurity Internship opportunities*
+
