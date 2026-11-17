@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me:
 
-* 🎓 Pursuing Master's in Cybersecurity @ Auburn University at Montgomery
+* 🎓 Master's in Cybersecurity @ Auburn University at Montgomery
 * 🔭 Currently working on **OSINT & Identity Resolution Projects**
 * 🌱 Learning **SIEM, Penetration Testing, and Cloud Security**
 * 👯 Looking to collaborate on **Cybersecurity & Open Source Projects**
@@ -93,7 +93,7 @@
 
 ## 🧪 Currently Learning:
 
-* SIEM Tools (Splunk basics)
+* SIEM Tools
 * Advanced Penetration Testing
 * Cloud Security (AWS)
 
@@ -110,7 +110,4 @@
 
 > “In cybersecurity industry, you can pray for peace, but never stop entertaining chaos.”
 
----
-
-⭐ *Actively seeking Cybersecurity Internship opportunities*
 
